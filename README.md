@@ -15,7 +15,7 @@ This project simulates an LED blinking circuit using Arduino Uno on Tinkercad.
 The LED turns ON and OFF every 1 second using Arduino's `digitalWrite()` and `delay()` functions.
 
 ## 📷 Circuit Preview
-![Circuit](circuit.png)
+![Circuit](_Smart Hydroponics Controller.png)
 
 ## 🔧 Arduino Code
 Check `blink_led.ino` file for code.
